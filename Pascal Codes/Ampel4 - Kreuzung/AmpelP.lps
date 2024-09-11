@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="AmpelP.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="28"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ampelu.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AmpelU"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="99"/>
+        <CursorPos X="34" Y="108"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="40" Column="12" TopLine="15"/>
+      </Position1>
+      <Position2>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="41" Column="3" TopLine="15"/>
+      </Position2>
+      <Position3>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="54" Column="36" TopLine="34"/>
+      </Position3>
+      <Position4>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="58" Column="36" TopLine="38"/>
+      </Position4>
+      <Position5>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="100" Column="14" TopLine="73"/>
+      </Position5>
+      <Position6>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="107" Column="14" TopLine="80"/>
+      </Position6>
+      <Position7>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="118" Column="25" TopLine="90"/>
+      </Position7>
+      <Position8>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="122" Column="25" TopLine="94"/>
+      </Position8>
+      <Position9>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="126" Column="25" TopLine="98"/>
+      </Position9>
+      <Position10>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="127" Column="25" TopLine="99"/>
+      </Position10>
+      <Position11>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="128" Column="25" TopLine="100"/>
+      </Position11>
+      <Position12>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="129" Column="25" TopLine="101"/>
+      </Position12>
+      <Position13>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="130" Column="25" TopLine="102"/>
+      </Position13>
+      <Position14>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="71" Column="44" TopLine="57"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="139" Column="3" TopLine="22"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="140" Column="3" TopLine="109"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="141" Column="3" TopLine="110"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="142" Column="3" TopLine="111"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="143" Column="3" TopLine="112"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="150" Column="3" TopLine="119"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="83" Column="29" TopLine="81"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="84" Column="50" TopLine="81"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="86" Column="50" TopLine="83"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="92" Column="65" TopLine="76"/>
+      </Position24>
+      <Position25>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="85" Column="20" TopLine="74"/>
+      </Position25>
+      <Position26>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="91" Column="79" TopLine="75"/>
+      </Position26>
+      <Position27>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="93" Column="79" TopLine="77"/>
+      </Position27>
+      <Position28>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="100" Column="65" TopLine="85"/>
+      </Position28>
+      <Position29>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="99" Column="42" TopLine="97"/>
+      </Position29>
+      <Position30>
+        <Filename Value="ampelu.pas"/>
+        <Caret Line="101" Column="42" TopLine="99"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

@@ -1,0 +1,165 @@
+object Form1: TForm1
+  Left = 14
+  Height = 753
+  Top = 109
+  Width = 1201
+  Caption = 'Ampel1'
+  ClientHeight = 753
+  ClientWidth = 1201
+  OnCreate = FormCreate
+  LCLVersion = '1.8.4.0'
+  object PAmpel1: TPanel
+    Left = 664
+    Height = 224
+    Top = 464
+    Width = 82
+    ClientHeight = 224
+    ClientWidth = 82
+    Color = clMedGray
+    ParentColor = False
+    TabOrder = 0
+    object SRot1: TShape
+      Left = 8
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clRed
+      Shape = stCircle
+    end
+    object SGelb1: TShape
+      Left = 8
+      Height = 65
+      Top = 80
+      Width = 65
+      Brush.Color = clYellow
+      Shape = stCircle
+    end
+    object SGruen1: TShape
+      Left = 8
+      Height = 65
+      Top = 152
+      Width = 65
+      Brush.Color = clLime
+      Shape = stCircle
+    end
+  end
+  object Bschalten: TButton
+    Left = 144
+    Height = 41
+    Top = 176
+    Width = 147
+    Caption = 'Ampel schalten'
+    OnClick = BschaltenClick
+    TabOrder = 1
+  end
+  object PAmpel2: TPanel
+    Left = 336
+    Height = 80
+    Top = 360
+    Width = 224
+    ClientHeight = 80
+    ClientWidth = 224
+    Color = clMedGray
+    ParentColor = False
+    TabOrder = 2
+    object SRot2: TShape
+      Left = 152
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clRed
+      Shape = stCircle
+    end
+    object SGelb2: TShape
+      Left = 80
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clYellow
+      Shape = stCircle
+    end
+    object SGruen2: TShape
+      Left = 8
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clLime
+      Shape = stCircle
+    end
+  end
+  object PAmpel3: TPanel
+    Left = 480
+    Height = 224
+    Top = 48
+    Width = 82
+    ClientHeight = 224
+    ClientWidth = 82
+    Color = clMedGray
+    ParentColor = False
+    TabOrder = 3
+    object SRot3: TShape
+      Left = 8
+      Height = 65
+      Top = 152
+      Width = 65
+      Brush.Color = clRed
+      Shape = stCircle
+    end
+    object SGelb3: TShape
+      Left = 8
+      Height = 65
+      Top = 80
+      Width = 65
+      Brush.Color = clYellow
+      Shape = stCircle
+    end
+    object SGruen3: TShape
+      Left = 8
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clLime
+      Shape = stCircle
+    end
+  end
+  object PAmpel4: TPanel
+    Left = 728
+    Height = 80
+    Top = 224
+    Width = 224
+    ClientHeight = 80
+    ClientWidth = 224
+    Color = clMedGray
+    ParentColor = False
+    TabOrder = 4
+    object SRot4: TShape
+      Left = 8
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clRed
+      Shape = stCircle
+    end
+    object SGelb4: TShape
+      Left = 80
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clYellow
+      Shape = stCircle
+    end
+    object SGruen4: TShape
+      Left = 152
+      Height = 65
+      Top = 8
+      Width = 65
+      Brush.Color = clLime
+      Shape = stCircle
+    end
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    left = 223
+    top = 36
+  end
+end

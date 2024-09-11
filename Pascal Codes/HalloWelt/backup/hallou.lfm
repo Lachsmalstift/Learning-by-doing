@@ -1,0 +1,20 @@
+object Form1: TForm1
+  Left = 232
+  Height = 168
+  Top = 132
+  Width = 246
+  Caption = 'Hallo Welt'
+  ClientHeight = 168
+  ClientWidth = 246
+  LCLVersion = '1.8.4.0'
+  object BHallo: TButton
+    Left = 48
+    Height = 72
+    Top = 40
+    Width = 152
+    Caption = 'Hallo'
+    Color = clActiveBorder
+    OnClick = BHalloClick
+    TabOrder = 0
+  end
+end

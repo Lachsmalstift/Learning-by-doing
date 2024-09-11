@@ -1,0 +1,1 @@
+print("Heute ist der 18.01.2023 und ich fühle mich ganz ok. Ich möchte in diesem Kurs Python lernen und mir einfach ein neues hobby zulegen. Ein ersatz zum zocken! Nachricht an Future Me: Hoffe du hast durchgezogen Bruder. Und hier mein lieblings Emoji:  🦧  ")

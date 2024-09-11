@@ -1,0 +1,39 @@
+object Form1: TForm1
+  Left = 284
+  Height = 412
+  Top = 155
+  Width = 580
+  Caption = 'Form1'
+  ClientHeight = 412
+  ClientWidth = 580
+  OnCreate = FormCreate
+  LCLVersion = '1.8.4.0'
+  object SBall1: TShape
+    Left = 152
+    Height = 65
+    Top = 112
+    Width = 65
+    Brush.Color = clBlue
+    Shape = stCircle
+  end
+  object SBall2: TShape
+    Left = 328
+    Height = 50
+    Top = 77
+    Width = 50
+    Brush.Color = clYellow
+    Shape = stCircle
+  end
+  object TBall: TTimer
+    Interval = 1
+    OnTimer = TBallTimer
+    left = 96
+    top = 77
+  end
+  object TBall2: TTimer
+    Interval = 1
+    OnTimer = TBall2Timer
+    left = 96
+    top = 48
+  end
+end
