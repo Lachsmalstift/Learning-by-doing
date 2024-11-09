@@ -20,7 +20,7 @@ int main()
     else 
         printf("Deine Jahreszahl: %i ist kein Schaltjahr.", Jahr);
 return 0;
-    }
+}
 
 
 

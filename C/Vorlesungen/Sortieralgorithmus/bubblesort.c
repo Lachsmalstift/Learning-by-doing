@@ -5,7 +5,7 @@
 4.Benutzer kann auf- und absteigend auswählen
 5.Auslagern von Teilcode in Funktionen*/
 
-/*#include <stdio.h>
+#include <stdio.h>
 int main(){
 
     int eingabe[5] = {6,5,8,-3,2};
@@ -22,7 +22,7 @@ for( int b = 0; b < 4; b++){
 for(int i = 0; i < 5; i++){
     printf("%i ", eingabe[i]);
 }
-}*/
+}
 
 #include <stdio.h>
 void Eingabe(int Eingabewerte[], int anzahlwerte);
