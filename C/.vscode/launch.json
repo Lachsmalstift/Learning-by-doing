@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/KePeF/OneDrive - HSOS/Coden/C/Udemy Kurs/Variablen & Datentypen",
+      "program": "c:/Users/KePeF/OneDrive - HSOS/Coden/C/Udemy Kurs/Variablen & Datentypen/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
