@@ -51,7 +51,7 @@ int main() {
         }
         case CHEEKY:
         {
-            printf("haha, funny number!");
+            printf("haha, funny number! :P");
             break;
         }
     default:
