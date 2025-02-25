@@ -12,8 +12,7 @@ int main()
 double wert1;
 double wert2;
 double wert3;
-char ende;
-int wdhlng = 1;
+char ende = 'y';
 
 
 do {
@@ -46,7 +45,9 @@ else {
 }
 
 //Rechter Winkel?
-if ((wert1 * wert1 + wert2 * wert2 >= wert3 * wert3) || (wert2 * wert2 + wert3 * wert3 >= wert1 * wert1) || (wert3 * wert3 + wert1 * wert1 >= wert2 * wert2))
+if ((wert1 * wert1 + wert2 * wert2 == wert3 * wert3) || 
+    (wert2 * wert2 + wert3 * wert3 == wert1 * wert1) || 
+    (wert3 * wert3 + wert1 * wert1 == wert2 * wert2))
 {
     printf("Das Dreieck ist Rechtwinklig.\n");
 }
@@ -57,11 +58,7 @@ else {
 printf("Programm Beendet. Möchten Sie das Programm erneut ausführen? y/n\n");
 scanf(" %c", &ende);
 
-if(ende == 'n')
-{
-    break;
-}
-} while (wdhlng == 1);
+} while (ende == 'y');
 
 return 0;
 }
