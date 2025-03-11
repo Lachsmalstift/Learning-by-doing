@@ -39,8 +39,8 @@ void Eingabe(int zahlenfolge[]){
     for(int i = 0; i < 6; i++){                         //Sechs Werte einlesen
         printf("Bitte den %i. Wert eingeben: ", i+1);
         scanf("%i", &zahlenfolge[i]);
-        if(zahlenfolge[i]>0 && zahlenfolge[i]<50){       //Pr�fen, ob g�ltiger Wertebereich
-            for(int j = 0; j < i; j++){                 //Pr�fen, ob Zahl schon existiert
+        if(zahlenfolge[i]>0 && zahlenfolge[i]<50){       //Pruefen, ob gueltiger Wertebereich
+            for(int j = 0; j < i; j++){                 //Pruefen, ob Zahl schon existiert
                 if(zahlenfolge[i] == zahlenfolge[j]){
                     printf("Die Zahl %i existiert schon!\n", zahlenfolge[i]);
                     i--;
